@@ -1,2 +1,2 @@
 # ASIN_scraping-
-Python code for scraping amazon ASIN number
+Python script to fetch Amazon ASIN number from searching items directly
